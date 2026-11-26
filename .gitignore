@@ -3,6 +3,7 @@
 *.pem
 *.key
 *credentials*
+.ipynb_checkpoints/
 
 # Local raster outputs
 data/*.tif

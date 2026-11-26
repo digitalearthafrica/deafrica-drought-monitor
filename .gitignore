@@ -1,3 +1,9 @@
+# Credentials & environment files
 .env
-.cdsapirc
-.ipynb_checkpoints/
+*.pem
+*.key
+*credentials*
+
+# Local raster outputs
+data/*.tif
+data/*.nc
